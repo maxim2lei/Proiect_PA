@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1717069728 source:c:\users\max\desktop\pclp\proiect_pa\book.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1717070359 source:c:\users\max\desktop\pclp\proiect_pa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<time.h>
+	"book.h"
+
+1717070340 c:\users\max\desktop\pclp\proiect_pa\book.h
+
